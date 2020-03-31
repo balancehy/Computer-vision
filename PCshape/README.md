@@ -1,4 +1,4 @@
-# Point cloud shape finding and boundary extracting
+# 2D Point cloud shape finding and boundary extracting
 
 * Use DBscan to cluster the original data, use the biggest cluster for shape finding
 * Use two approaches to find shape(concave hull) of the cluster
